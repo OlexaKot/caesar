@@ -20,6 +20,7 @@ def encrypt(plaintext, shift):
             ciphertext += letter
     return ciphertext
     
+# Decryption
 def decrypt(ciphertext, shift):
     plaintext = ''
     for letter in ciphertext:
