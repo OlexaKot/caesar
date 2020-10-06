@@ -54,3 +54,5 @@ Example:
 +24 Jxyi yi q iushuj cuiiqwu.
 +25 Kyzj zj r jvtivk dvjjrxv.
 ```
+# Committing
+Pull requests are welcome.
