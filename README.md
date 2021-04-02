@@ -6,7 +6,7 @@ For more information about this cipher <a href="https://en.wikipedia.org/wiki/Ca
 
 # Usage
 ## Encryption (Available in both languages)
-To encrypt a message, use the encrypt() function that takes in two arguments: the plaintext (a string) and the key (integer) and outputs the ciphertext.
+To encrypt a message, use the encrypt() function that takes in two arguments: the plaintext (a string) and the key (an integer) and outputs the ciphertext.
 
 Example: 
 ```
@@ -14,7 +14,7 @@ Example:
 'Qnuux Fxaum!'
 ```
 ## Decryption (Available in both languages)
-To decrypt a message, use the decrypt() function that likewise takes in two arguments: the ciphertext (a string) and the key (integer) and outputs the plaintext.
+To decrypt a message, use the decrypt() function that likewise takes in two arguments: the ciphertext (a string) and the key (an integer) and outputs the plaintext.
 
 Example:
 ```
